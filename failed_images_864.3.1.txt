@@ -1,0 +1,28 @@
+new 
+❌ Total failed: 1
+
+📁 Folder: 864.3.XSM
+  00000030.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000030.jpg: No valid results after 3 ROI attempts"}
+
+
+
+
+old
+❌ Total failed: 14
+
+📁 Folder: 864.3.XSM
+  00000004.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000004.jpg: No valid results after 2 ROI attempts"}
+  00000018.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000018.jpg: No valid results after 2 ROI attempts"}
+  00000019.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000019.jpg: No valid results after 2 ROI attempts"}
+  00000020.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000020.jpg: No valid results after 2 ROI attempts"}
+  00000021.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000021.jpg: No valid results after 2 ROI attempts"}
+  00000022.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000022.jpg: No valid results after 2 ROI attempts"}
+  00000023.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000023.jpg: No valid results after 2 ROI attempts"}
+  00000024.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000024.jpg: No valid results after 2 ROI attempts"}
+  00000025.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000025.jpg: No valid results after 2 ROI attempts"}
+  00000030.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000030.jpg: No valid results after 2 ROI attempts"}
+  00000037.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000037.jpg: No valid results after 2 ROI attempts"}
+  00000038.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000038.jpg: No valid results after 2 ROI attempts"}
+  00000066.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000066.jpg: No valid results after 2 ROI attempts"}
+  00000101.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.3.XSM\\00000101.jpg: No valid results after 2 ROI attempts"}
+

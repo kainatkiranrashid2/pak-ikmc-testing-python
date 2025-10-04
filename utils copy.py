@@ -73,7 +73,7 @@ def get_rois(image_path, image, image_height, image_width, roi_index):
         rois = roi_4960_7014
     elif image_height == 1755 and image_width == 1238:
         rois = roi_1238_1755
-    elif image_height in [2339, 2338] and image_width in [1654, 1653, 1656]:
+    elif image_height in [2340, 2339, 2338] and image_width in [1664, 1654, 1653, 1656]:
         rois = roi_1653_2339
     elif image_height == 2560 and image_width == 1806:
         rois = roi_1806_2560

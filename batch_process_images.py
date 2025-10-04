@@ -3,10 +3,10 @@ import requests
 from PIL import Image
 
 # Set the FastAPI endpoint
-API_URL = "http://localhost:3001/process-file/"
+API_URL = "http://localhost:8000/process-file/"
 
 # Default folder paths
-default_folder_path_1 = r"C:\Users\Administrator\Desktop\IKMC 2025 Amina\KangarooQatar Sheets for results ikmc\Archive\120"
+default_folder_path_1 = r"C:\Users\Administrator\Desktop\Aminah\200dpi\864.2.XSM"
 # default_folder_path_2 = r"C:\Users\Administrator\Desktop\25-new-folders\138"
 default_folder_path_2 = r"C:\Users\Administrator\Desktop\test-out\01\97"
 # default_folder_path_2 = r"C:\Users\Administrator\Desktop\test-out\01\102"

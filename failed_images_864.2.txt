@@ -1,0 +1,12 @@
+new
+❌ Total failed: 0
+
+
+
+old
+❌ Total failed: 2
+
+📁 Folder: 864.2.XSM
+  00000038.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.2.XSM\\00000038.jpg: No valid results after 2 ROI attempts"}
+  00000040.jpg - Error: 500 - {"detail":"Image processing failed: Exception: Manual check required for C:\\Users\\Administrator\\Desktop\\Aminah\\200dpi\\864.2.XSM\\00000040.jpg: No valid results after 2 ROI attempts"}
+
