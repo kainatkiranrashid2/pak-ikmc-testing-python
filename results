@@ -1,0 +1,321 @@
+📊 API PROCESSING SUMMARY
+=========================
+Start Time: 2025-04-26 23:31:17
+End Time: 2025-04-26 23:48:29
+Duration: 0:17:12.362740
+
+Total images processed: 242
+✅ Successes: 188
+❌ Failures: 54
+
+📁 Folder: 113
+  ✅ Successful images (11):
+    - 20250421_122246_0001.JPG [4960x7014]
+    - 20250421_122246_0002.JPG [4960x7014]
+    - 20250421_122246_0003.JPG [4960x7014]
+    - 20250421_122246_0004.JPG [4960x7014]
+    - 20250421_122246_0005.JPG [4960x7014]
+    - 20250421_122246_0006.JPG [4960x7014]
+    - 20250421_122246_0007.JPG [4960x7014]
+    - 20250421_122246_0008.JPG [4960x7014]
+    - 20250421_122246_0009.JPG [4960x7014]
+    - 20250421_122246_0010.JPG [4960x7014]
+    - 20250421_122246_0011.JPG [4960x7014]
+  ❌ Failed images (0):
+
+📁 Folder: 125
+  ✅ Successful images (9):
+    - No 12 Roudha Alsulaiti.jpg [1904x2704]
+    - No 13 Amna Al Emadi.jpg [2176x2944]
+    - No 14 Aisha Alkuwari.jpg [1872x2704]
+    - No 15 Aisha Yousef Al Surour.jpg [2016x3056]
+    - No 2 Housna Domun.jpg [2224x3200]
+    - No 3 Fatima Essa.jpg [2208x3072]
+    - No 6 Alghalya Al amri.jpg [2080x2960]
+    - No 7 Asma Metab.jpg [2064x3024]
+    - No 9 Maliha Alkubaisi.jpg [1984x2848]
+  ❌ Failed images (4):
+    # - No 11 Amna Al Qahomi.jpg [2288x3280] - 500 
+    # - No 15 Aisha Al surour.jpg [2080x2976] - 500 
+    # - No 4 Zainab Ali.jpg [2128x2896] - 500 
+    # - No 8 Zainab Hafiz.
+     [2112x2944] - 500 
+
+📁 Folder: 13
+  ✅ Successful images (15):
+    - Aathira .jpg [4680x3307]
+    - Abdul Ahad.jpg [3307x4680]
+    - Abigail.jpg [3307x4680]
+    - Alishba.jpg [4680x3307]
+    - Anirudh.jpg [4680x3307]
+    - Aqila.jpg [3307x4680]
+    - Fawzy.jpg [4680x3307]
+    - Gabriella .jpg [4680x3307]
+    - Hamza Sayed.jpg [4680x3307]
+    - Kimberley.jpg [4680x3307]
+    - Neehan.jpg [4680x3307]
+    - Nyle.jpg [4680x3307]
+    - Sophia.jpg [4680x3307]
+    - Upamanyu.jpg [4680x3307]
+    - Zohan.jpg [3307x4680]
+  ❌ Failed images (1):
+    - Miyaz.jpg [4680x3307] - 500 
+
+📁 Folder: 138
+  ✅ Successful images (2):
+    - IMG_3890.jpg [1050x1477]
+    - IMG_3892.jpg [1072x1494]
+  ❌ Failed images (18):
+    - IMG_3891.jpg [939x1290] - 500 
+    - IMG_3893.jpg [1010x1408] - 500 
+    - IMG_3894.jpg [1013x1364] - 500 
+    - IMG_3895.jpg [920x1281] - 500 
+    - IMG_3896.jpg [950x1275] - 500 
+    - IMG_3897.jpg [998x1376] - 500 
+    - IMG_3898.jpg [906x1277] - 500 
+    - IMG_3899.jpg [929x1262] - 500 
+    - IMG_3900.jpg [947x1289] - 500 
+    - IMG_3901.jpg [935x1325] - 500 
+    - IMG_3902.jpg [950x1313] - 500 
+    - IMG_3903.jpg [917x1245] - 500 
+    - IMG_3904.jpg [999x1335] - 500 
+    - IMG_3905.jpg [942x1292] - 500 
+    - IMG_3906.jpg [926x1251] - 500 
+    - IMG_3907.jpg [942x1277] - 500 
+    - IMG_3908.jpg [958x1317] - 500 
+    - IMG_3909.jpg [975x1304] - 500 
+
+📁 Folder: 18
+  ✅ Successful images (4):
+    - ALJAZI_EIA_Answersheet(IKMC2025).jpg [1129x1600]
+    - HOORE_EIA_Answersheet(IKMC2025).jpg [1129x1600]
+    - MALK_EIA_Answersheet(IKMC2025).jpg [1129x1600]
+    - NAFISYA_EIA_Answersheet(IKMC2025).jpg [1129x1600]
+  ❌ Failed images (0):
+
+📁 Folder: 36
+  ✅ Successful images (13):
+    - 20250424123509_00001.jpg [3303x4671]
+    - 20250424123509_00002.jpg [3303x4671]
+    - 20250424123509_00003.jpg [3303x4671]
+    - 20250424123509_00004.jpg [3303x4671]
+    - 20250424123509_00005.jpg [3303x4671]
+    - 20250424123509_00006.jpg [3303x4671]
+    - 20250424123509_00007.jpg [3303x4671]
+    - 20250424123509_00008.jpg [3303x4671]
+    - 20250424123509_00009.jpg [3303x4671]
+    - 20250424123509_00010.jpg [3303x4671]
+    - 20250424123509_00011.jpg [3303x4671]
+    - 20250424123509_00012.jpg [3303x4671]
+    - 20250424123509_00013.jpg [3303x4671]
+  ❌ Failed images (1):
+    - 20250424123614_00001.jpg [3303x4671] - 500 
+
+📁 Folder: 38
+  ✅ Successful images (27):
+    - 20250423180432_00001.jpg [3303x4671]
+    - 20250423180432_00002.jpg [3303x4671]
+    - 20250423180432_00003.jpg [3303x4671]
+    - 20250423180432_00004.jpg [3303x4671]
+    - 20250423180432_00005.jpg [3303x4671]
+    - 20250423180432_00007.jpg [3303x4671]
+    - 20250423180432_00008.jpg [3303x4671]
+    - 20250423180432_00009.jpg [3303x4671]
+    - 20250423180432_00010.jpg [3303x4671]
+    - 20250423180432_00011.jpg [3303x4671]
+    - 20250423180432_00012.jpg [3303x4671]
+    - 20250423180432_00013.jpg [3303x4671]
+    - 20250423180432_00014.jpg [3303x4671]
+    - 20250423180432_00015.jpg [3303x4671]
+    - 20250423180432_00016.jpg [3303x4671]
+    - 20250423180432_00017.jpg [3303x4671]
+    - 20250423180432_00018.jpg [3303x4671]
+    - 20250423180432_00019.jpg [3303x4671]
+    - 20250423180432_00020.jpg [3303x4671]
+    - 20250423180432_00021.jpg [3303x4671]
+    - 20250423180432_00022.jpg [3303x4671]
+    - 20250423180432_00023.jpg [3303x4671]
+    - 20250423180432_00024.jpg [3303x4671]
+    - 20250423180432_00025.jpg [3303x4671]
+    - 20250423180432_00026.jpg [3303x4671]
+    - 20250423180432_00027.jpg [3303x4671]
+    - 20250423180432_00028.jpg [3303x4671]
+  ❌ Failed images (1):
+    - 20250423180432_00006.jpg [3303x4671] - 500 
+
+📁 Folder: 39
+  ✅ Successful images (8):
+    - _Page_1.jpg [3308x4678]
+    - _Page_2.jpg [3308x4678]
+    - _Page_3.jpg [3308x4678]
+    - _Page_4.jpg [3308x4678]
+    - _Page_6.jpg [3308x4678]
+    - _Page_7.jpg [3308x4678]
+    - _Page_8.jpg [3308x4678]
+    - _Page_9.jpg [3308x4678]
+  ❌ Failed images (1):
+    - _Page_5.jpg [3308x4678] - 500 
+
+📁 Folder: 46
+  ✅ Successful images (7):
+    - AHMAD ZAMEER (Y4).jpg [3248x4672]
+    - AREEJ (Y5).jpg [3400x4677]
+    - FAISAL AHMED (Y2).jpg [3400x4677]
+    - SAFA AMIR (Y1).jpg [3400x4677]
+    - SAM (Y6).jpg [3400x4677]
+    - YAYHA AHMED (Y3).jpg [3400x4677]
+    - YOUSSIF AHMED (Y1).jpg [3400x4677]
+  ❌ Failed images (0):
+
+📁 Folder: 49
+  ✅ Successful images (4):
+    - KANGAROO_0002 1.jpg [2374x3452]
+    - KANGAROO_0004 1.jpg [2276x3376]
+    - KANGAROO_0005 1.jpg [2396x3428]
+    - KANGAROO_0006 1.jpg [2250x3480]
+  ❌ Failed images (1):
+    - KANGAROO_0003 1.jpg [2268x3488] - 500 
+
+📁 Folder: 57
+  ✅ Successful images (0):
+  ❌ Failed images (1):
+    - Scanned from a Xerox Multifunction Printer.jpg [2496x3520] - 500 
+
+📁 Folder: 62
+  ✅ Successful images (22):
+    - 03.jpg [3292x4665]
+    - 04.jpg [3292x4665]
+    - 05.jpg [3292x4665]
+    - 06.jpg [3292x4665]
+    - 07.jpg [3292x4665]
+    - 08.jpg [3292x4665]
+    - 09.jpg [3292x4665]
+    - 10.jpg [3292x4665]
+    - 11.jpg [3292x4665]
+    - 12.jpg [3292x4665]
+    - 13.jpg [3292x4665]
+    - 14.jpg [3292x4665]
+    - 15.jpg [3292x4665]
+    - 16.jpg [3292x4665]
+    - 17.jpg [3292x4665]
+    - 18.jpg [3292x4665]
+    - 19.jpg [3292x4665]
+    - 20.jpg [3292x4665]
+    - 21.jpg [3292x4665]
+    - 22.jpg [3292x4665]
+    - 23.jpg [3292x4665]
+    - 24.jpg [3292x4665]
+  ❌ Failed images (2):
+    - 01.jpg [3292x4665] - 500 
+    - 02.jpg [3292x4665] - 500 
+
+📁 Folder: 71
+  ✅ Successful images (12):
+    - ASD_G11_Answers_Sheets_Page_1.jpg [1653x2339]
+    - ASD_G11_Answers_Sheets_Page_2.jpg [1653x2339]
+    - ASD_G12_Answer_Sheet.jpg [1653x2339]
+    - ASD_G5_Answer_Sheets.jpg [1653x2339]
+    - ASD_G8_Answer_Sheets_Page_1.jpg [1653x2339]
+    - ASD_G8_Answer_Sheets_Page_2.jpg [1653x2339]
+    - ASD_G8_Answer_Sheets_Page_3.jpg [1653x2339]
+    - ASD_G9_Answer_Sheets_Page_1.jpg [1653x2339]
+    - ASD_G9_Answer_Sheets_Page_2.jpg [1653x2339]
+    - ASD_G9_Answer_Sheets_Page_3.jpg [1653x2339]
+    - ASD_G9_Answer_Sheets_Page_4.jpg [1653x2339]
+    - ASD_G9_Answer_Sheets_Page_5.jpg [1653x2339]
+  ❌ Failed images (1):
+    - ASD_G11_Answers_Sheets_Page_3.jpg [1653x2339] - 500 
+
+📁 Folder: 76
+  ✅ Successful images (9):
+    - 20250421105502_00001.jpg [3303x4671]
+    - 20250421105513_00001.jpg [3303x4671]
+    - 20250421105530_00001.jpg [3303x4671]
+    - 20250421105541_00001.jpg [3303x4671]
+    - 20250421105554_00001.jpg [3303x4671]
+    - 20250421105608_00001.jpg [3303x4671]
+    - 20250421105619_00001.jpg [3303x4671]
+    - 20250421105628_00001.jpg [3303x4671]
+    - 20250421105639_00001.jpg [3303x4671]
+  ❌ Failed images (2):
+    - 20250421105422_00001.jpg [3303x4671] - 500 
+    - 20250421105444_00001.jpg [3303x4671] - 500 
+
+📁 Folder: 82
+  ✅ Successful images (1):
+    - scan.etqan@gmail.com_20250424_135417_Page_16.jpg [1656x2338]
+  ❌ Failed images (16):
+    - scan.etqan@gmail.com_20250424_135417_Page_01.jpg [1654x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_03.jpg [1656x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_04.jpg [1656x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_05.jpg [1656x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_06.jpg [1656x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_07.jpg [1656x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_08.jpg [1656x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_09.jpg [1656x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_10.jpg [1656x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_11.jpg [1656x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_12.jpg [1656x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_13.jpg [1656x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_14.jpg [1656x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_15.jpg [1656x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_17.jpg [1656x2338] - 500 
+    - scan.etqan@gmail.com_20250424_135417_Page_18.jpg [1654x2338] - 500 
+
+📁 Folder: 85
+  ✅ Successful images (37):
+    - Scanned from a Xerox Multifunction Printer001 2.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer001 3.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer001 4.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer001 5.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer002 2.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer002 3.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer002 5.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer002.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer003 2.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer003 3.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer003 4.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer003 5.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer003.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer004 2.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer004 3.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer004 4.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer004 5.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer004.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer005 3.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer005 4.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer005 5.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer005.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer006 2.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer006 3.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer006 4.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer006 5.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer006.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer007 2.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer007 3.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer008 2.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer008 3.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer008.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer009 2.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer010 2.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer010.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer011 2.jpg [3328x4672]
+    - Scanned from a Xerox Multifunction Printer011.jpg [3328x4672]
+  ❌ Failed images (5):
+    - Scanned from a Xerox Multifunction Printer001.jpg [3328x4672] - 500 
+    - Scanned from a Xerox Multifunction Printer002 4.jpg [3328x4672] - 500 
+    - Scanned from a Xerox Multifunction Printer005 2.jpg [3328x4672] - 500 
+    - Scanned from a Xerox Multifunction Printer007.jpg [3328x4672] - 500 
+    - Scanned from a Xerox Multifunction Printer009.jpg [3328x4672] - 500 
+
+📁 Folder: 89
+  ✅ Successful images (7):
+    - Andrew Anand- E Colier.jpg [4680x3307]
+    - Clive Rodrigues- Benjamin.jpg [4680x3304]
+    - Goutham Shraven- E Colier.jpg [3300x4680]
+    - Hafza Fatma- E Colier.jpg [4680x3304]
+    - Harrold Thomas-E Colier.jpg [3299x4680]
+    - N R Esakki- E Colier.jpg [4680x3304]
+    - Srinidhi- E Colier.jpg [3302x4680]
+  ❌ Failed images (0):
+
